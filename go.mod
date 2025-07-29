@@ -1,4 +1,4 @@
-module github.com/olongfen/gen-id
+module github.com/lucky0137/gen-id
 
 go 1.13
 
